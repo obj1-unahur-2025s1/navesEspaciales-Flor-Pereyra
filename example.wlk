@@ -1,9 +1,6 @@
-object pepita {
-  var energy = 100
 
-  method energy() = energy
 
-  method fly(minutes) {
-    energy = energy - minutes * 3
-  }
-}
+
+
+ejercicio que nos dio el profe tipo parcial en esta semana:
+https://github.com/obj1-unahur-2025s1/yaaar-Flor-Pereyra
